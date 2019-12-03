@@ -1,0 +1,29 @@
+commit 343ffb328a8ed2100035fb2a25f234338e830547
+Author: Mike Cao <mc2522@rit.edu>
+Date:   Sat Nov 3 20:15:06 2018 -0400
+
+    Completed.
+
+commit ca3afadeb3eddacaa0c3e9c423debf2523683941
+Author: Mike Cao <mc2522@rit.edu>
+Date:   Sat Nov 3 19:01:41 2018 -0400
+
+    Completed. No documentation yet.
+
+commit ce7049eb6c9d9d9146c0181aa8102892f1d69fae
+Author: Mike Cao <mc2522@rit.edu>
+Date:   Sat Nov 3 15:56:48 2018 -0400
+
+    Functions and runs the game but doesn't exit cleanly. Have to use protocol.
+
+commit f211366ff29d3d9913b09ef09e089e3b6db98fb2
+Author: Mike Cao <mc2522@rit.edu>
+Date:   Fri Nov 2 23:53:29 2018 -0400
+
+    Cleaned up server.
+
+commit 436364b1779ca72abef29db36db0ba891fe14afe
+Author: Mike Cao <mc2522@rit.edu>
+Date:   Thu Nov 1 21:41:03 2018 -0400
+
+    Partially completed. Prints the board.
